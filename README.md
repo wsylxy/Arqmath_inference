@@ -4,7 +4,7 @@
 see `data` branch
 
 ## Dense embeddings generation:
-emb.py: generate the dense embeddings of MSE (math stack exchange) posts or formulas.
+- emb.py: generate the dense embeddings of MSE (math stack exchange) posts or formulas.
 
 ## Inference:
 - inference.py: Arqmath3 task 1 inference based on pure math formulas, providing "start token", "mean pooling" and "max pooling" modes.
