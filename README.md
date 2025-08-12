@@ -1,7 +1,7 @@
 # This is a repo to apply the inference of math dense retrieve based on Arqmath3
 
 ## Data preparation
-see data branch
+see `data` branch
 
 ## Dense embeddings generation:
 emb.py: generate the dense embeddings of MSE (math stack exchange) posts or formulas.
